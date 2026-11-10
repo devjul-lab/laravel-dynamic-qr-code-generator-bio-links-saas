@@ -61,7 +61,7 @@ The creator dashboard gives you a quick view of scan activity, including mobile,
 
 ## Technical Requirements
 
-- **PHP:** 8.4 or later.
+- **PHP:** 8.3 or later.
 - **Composer:** Version 2.
 - **Database:** MySQL 8.0 or compatible MariaDB for production; SQLite is supported for local development and tests.
 - **PHP extensions:** `gd`, plus `pdo_mysql` for MySQL or `pdo_sqlite` for SQLite. Common Laravel extensions include `ctype`, `curl`, `dom`, `fileinfo`, `mbstring`, `openssl`, `tokenizer`, and `xml`.
